@@ -22,7 +22,7 @@ A simulation-based embedded systems project using the STM32 Blue Pill and DHT22 
 - Arduino C++ and embedded libraries
 
 ## Simulation Results
-The initial simulation successfully initialized the DHT22 sensor and OLED display. It displayed a temperature reading of 24.0°C and humidity of 40.0%, with status NORMAL.
+https://wokwi.com/projects/478930329352577025
 
 ## Project Status
 The project currently runs in simulation. Physical hardware testing has not yet been performed.
