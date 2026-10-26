@@ -21,11 +21,13 @@ A simulation-based embedded systems project using the STM32 Blue Pill and DHT22 
 - Wokwi simulator
 - Arduino C++ and embedded libraries
 
-## Simulation Results
+Wokwi Simulation
 https://wokwi.com/projects/478930329352577025
 
-## Project Status
-The project currently runs in simulation. Physical hardware testing has not yet been performed.
+Simulation Results
+- Initial sensor reading: 24.0°C
+- Initial humidity reading: 40.0%
+- Reported status: NORMAL
 
 ## Learning Outcomes
 - Practised microcontroller GPIO control
